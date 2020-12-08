@@ -1,2 +1,2 @@
 # Projeto-Site-Responsivo
-Projeto criando durante meus estudos no curso de HTML5 da HCode
+Esse é um projeto que criei durante meus estudos no curso de HTML5 da HCode, várias funcionalidades e um amplo conteúdo dessa linguagem de marcação foram apresentados além do adicinal (e necessário) CSS e JavaScript :), para os interessados, também tenho um repósitorio dos exemplos que foram abordados "HTML5 Examples" que pode auxiliar no entendimento de várias tags nos momentos de estudo.
