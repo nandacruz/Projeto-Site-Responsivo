@@ -3,7 +3,7 @@ Esse é um projeto que criei durante meus estudos no curso de HTML5 da <a href =
 
 <img src="https://github.com/nandacruz/Projeto-Site-Responsivo/blob/main/project_img/Screenshot_3.png">
 
-Ferramentas adicionais:
+<h2>Ferramentas adicionais</h2>
 
  - Font Awesome: https://fontawesome.com/
 
