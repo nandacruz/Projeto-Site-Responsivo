@@ -7,6 +7,7 @@ Esse é um projeto que criei durante meus estudos no curso de HTML5 da <a href =
 
 - HTML5
 - CSS3
+- JavaScript
 - Flexbox
 - Responsividade
 - Gradient
