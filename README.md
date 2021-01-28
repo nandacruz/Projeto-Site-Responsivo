@@ -7,7 +7,7 @@ Ferramentas adicionais:
 
  - Font Awesome: https://fontawesome.com/
 
-Instrutores: 
+<h2>Instrutores</h2>
 
 - João Rangel
 - Glaucio Daniel Souza Santos
